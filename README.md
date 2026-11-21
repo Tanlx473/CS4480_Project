@@ -46,7 +46,15 @@ hf download alimamaTech/CASCADE --repo-type dataset \
 
 ## 环境与运行
 
-开发手册建议的基线为 Python 3.11、Java 17 和 PySpark 3.5.7。依赖安装、小样本运行、完整分析与 Dashboard 启动命令将在相应入口通过验证后补充。
+在仓库根目录执行以下命令，将 Conda 环境 `bigdata` 配置为 Python 3.12、Java 21 和 PySpark 4.0.1，然后读取第一个日文件中的五条记录。
+
+```sh
+conda env update -n bigdata -f environment.yml
+conda activate bigdata
+python scripts/check_spark.py
+```
+
+检查输出应包含 `Spark 4.0.1` 和五行字段摘要，第一行的前三列为 `['1746107620', '', '']`。
 
 ## 结果
 

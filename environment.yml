@@ -1,0 +1,9 @@
+name: bigdata
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - openjdk=21
+  - pip
+  - pip:
+      - pyspark==4.0.1
