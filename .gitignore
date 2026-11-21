@@ -1,0 +1,41 @@
+# Local dataset snapshot (including Hugging Face download caches)
+/data/raw/
+
+# Generated data, per-run results and logs
+/data/processed/*
+!/data/processed/.gitkeep
+/data/rejected/*
+!/data/rejected/.gitkeep
+/results/*
+!/results/.gitkeep
+/logs/*
+!/logs/.gitkeep
+
+# Spark local state
+/spark-warehouse/
+/metastore_db/
+/spark-events/
+/artifacts/
+/derby.log
+
+# Python environments, build products and notebooks
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+build/
+dist/
+
+# Machine-specific files and local credentials
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml

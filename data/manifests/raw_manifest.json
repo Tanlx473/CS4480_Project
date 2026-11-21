@@ -1,0 +1,133 @@
+{
+  "dataset": "alimamaTech/CASCADE",
+  "revision": "dcca178668b60d937f66535a60a0a92c74c1dfde",
+  "file_count": 25,
+  "total_bytes": 21408886953,
+  "files": [
+    {
+      "path": "data/raw/data/data_20250501.txt",
+      "bytes": 626759310,
+      "sha256": "30725cf077d8f235f2cda4cab37e1b8006631570cf65cb723c898ad66a211133"
+    },
+    {
+      "path": "data/raw/data/data_20250502.txt",
+      "bytes": 624674970,
+      "sha256": "7a7195b98d7560356570992b70d7ed7b5d0de617097c92155b6e8e96abbdb5df"
+    },
+    {
+      "path": "data/raw/data/data_20250503.txt",
+      "bytes": 630675954,
+      "sha256": "98cf740e1163d1e0314e995db6912d07fa0562eed66debc38d794de579951120"
+    },
+    {
+      "path": "data/raw/data/data_20250504.txt",
+      "bytes": 668498964,
+      "sha256": "6304dd036e8c40cf46986b1f29b19063de6f5f73f3aab4271a64b53627f25f49"
+    },
+    {
+      "path": "data/raw/data/data_20250505.txt",
+      "bytes": 742067885,
+      "sha256": "468c08db77ec91129716c684cf1305c25a9dbd2d08477f637e1e9f56985c879a"
+    },
+    {
+      "path": "data/raw/data/data_20250506.txt",
+      "bytes": 773385629,
+      "sha256": "d217569fc73fa0c9d3a4347b1c06063f0c054a16cf880ca08bcf57d1ac58527f"
+    },
+    {
+      "path": "data/raw/data/data_20250507.txt",
+      "bytes": 761583358,
+      "sha256": "a22b0091a64c6ebee4e5392ea45995ef43966c5546324f4961190889819ba739"
+    },
+    {
+      "path": "data/raw/data/data_20250508.txt",
+      "bytes": 768158774,
+      "sha256": "8790fc8b86792381dc3aa62602368c06c99b020b368054853c6a5d7b54ea9e7f"
+    },
+    {
+      "path": "data/raw/data/data_20250509.txt",
+      "bytes": 757491486,
+      "sha256": "12d535f25f7fccc3e8438a99db8819295263a2ce2e59477d69d0bbc291ba769b"
+    },
+    {
+      "path": "data/raw/data/data_20250510.txt",
+      "bytes": 779917727,
+      "sha256": "bb79898f0c76d19ec138b583ccaefd8abbfab56a43539f6cbcf08bfddae708dd"
+    },
+    {
+      "path": "data/raw/data/data_20250511.txt",
+      "bytes": 778810723,
+      "sha256": "7ce5bb07c32c557d61b7c1099ad7aa91dbb8b4c818b0e862e6ce5100ce8262f7"
+    },
+    {
+      "path": "data/raw/data/data_20250512.txt",
+      "bytes": 807009298,
+      "sha256": "7baa15825417aea2f9d00f2594356dd109281c9b8c3db5f815853ed20c0a00d4"
+    },
+    {
+      "path": "data/raw/data/data_20250513.txt",
+      "bytes": 856244173,
+      "sha256": "72a5fa1a2c56ef575e33294b08f14dbb3ba522423538f63ebf8ee231047605d4"
+    },
+    {
+      "path": "data/raw/data/data_20250514.txt",
+      "bytes": 896045317,
+      "sha256": "f94c4ef88c147413a1f672cbd054ed3d53121276c6a939a1ec3be5cb3b0f63cc"
+    },
+    {
+      "path": "data/raw/data/data_20250515.txt",
+      "bytes": 890061430,
+      "sha256": "49ab0f27739883cbca077a32eca7cac76dc2140339a203904c429e94d0e5ee6b"
+    },
+    {
+      "path": "data/raw/data/data_20250516.txt",
+      "bytes": 1066990321,
+      "sha256": "ea98b4396362d2c0fa8721d82e0b9fe0c296b6a04c453c84776883cf2e036e40"
+    },
+    {
+      "path": "data/raw/data/data_20250517.txt",
+      "bytes": 1196360621,
+      "sha256": "6b303cce0de147faf281d5e7377feec9032a99010171593866d3582b417aa847"
+    },
+    {
+      "path": "data/raw/data/data_20250518.txt",
+      "bytes": 1042647744,
+      "sha256": "52257915dfb416a8882e647f825419d39672cc7737854964a3a785ea7162f3e6"
+    },
+    {
+      "path": "data/raw/data/data_20250519.txt",
+      "bytes": 996963661,
+      "sha256": "f02a5c15247318d4884f14f390f7e0ba10e2e7df7c86e6767bfcfbdc1cafece9"
+    },
+    {
+      "path": "data/raw/data/data_20250520.txt",
+      "bytes": 992174139,
+      "sha256": "ed958360cc104f9dfe30689b669832169271424cc841f96a18c0ee3711596176"
+    },
+    {
+      "path": "data/raw/data/data_20250521.txt",
+      "bytes": 987780106,
+      "sha256": "a0c889b8eca240c12c6bfe883e7ca5bb879d54fe1dc1a6ece96e8ede4b4ea92c"
+    },
+    {
+      "path": "data/raw/data/data_20250522.txt",
+      "bytes": 980533599,
+      "sha256": "53824e0c0c1aafecfa4665515001b1fd9d107542f5da3adc48ad520757817067"
+    },
+    {
+      "path": "data/raw/data/data_20250523.txt",
+      "bytes": 932707388,
+      "sha256": "9e71445b1e97bd558d75bc651e883c94d0c360d680da716b159b7df70276aba0"
+    },
+    {
+      "path": "data/raw/data/data_20250524.txt",
+      "bytes": 931239742,
+      "sha256": "a458dfa74069198032db4039c22570c793d471294117a786ecdcfc9beac1fe62"
+    },
+    {
+      "path": "data/raw/data/data_20250525.txt",
+      "bytes": 920104634,
+      "sha256": "9a0973f332a1cd84ceada31966d6b395f008f0b0bac7a67e38f3e6b5a37b9f8c"
+    }
+  ]
+}
